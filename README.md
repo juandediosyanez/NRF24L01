@@ -10,9 +10,8 @@ Dentro de los archivos se podrá encontrar una copia de **py-spidev** como del m
 ## Clona el repositorio en tu Raspberry ##
 
 ```
-mkdir NRF24L01
-cd NRF24L01/
 git clone https://github.com/juandediosyanez/NRF24L01
+cd NRF24L01/
 ```
 
 ## Instalación de py-spidev ##
